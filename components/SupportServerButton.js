@@ -1,7 +1,7 @@
 export default function SupportServerButton() {
   return (
     <a
-      href="https://discord.gg/KODE_INVITE_KAMU"
+      href="https://discord.gg/72AAENJ7hC"
       target="_blank"
       rel="noopener noreferrer"
       style={{
@@ -15,7 +15,7 @@ export default function SupportServerButton() {
         textDecoration: 'none'
       }}
     >
-      Gabung ke Support Server
+      Support Server
     </a>
   );
 }
